@@ -1,0 +1,16 @@
+[
+{
+  "modid": "armor_weight",
+  "name": "ArmorWeight",
+  "description": "mod为装备增加了重量",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JDing"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
